@@ -1,2 +1,2 @@
 # crop_yield_prediction
-this is a simple project in python to predict crops in india most of the state in multiple seasor according to temp and rain
+ this is simple python project for fet crop in multiple sesons in multiple states of india
